@@ -1,4 +1,4 @@
-### Olá, eu sou o Vini 👋
+### 😁 Oiii, eu sou o Vini 😁
 
 Meu nome é Vinicius Schitz, mas pode me chamar de Vini. Tenho 20 anos e estou à procura de uma vaga como ``Desenvolvedor de Software Back End``. Atualmente estou estudando Engenharia de Software pela Estácio, estou no terceiro período, e também estou em um curso de Desenvolvedor Full Stack pela Cubos Academy.
 

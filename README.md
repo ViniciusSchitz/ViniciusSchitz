@@ -1,12 +1,8 @@
 ### 😁 Oiii, eu sou o Vini 😁
 
-Meu nome é Vinicius Schitz, mas pode me chamar de Vini. Tenho 20 anos e estou à procura de uma vaga como ``Desenvolvedor de Software Back End``. Atualmente estou estudando Engenharia de Software pela Estácio, estou no terceiro período, e também estou em um curso de Desenvolvedor Full Stack pela Cubos Academy.
+Meu nome é Vinicius Schitz, Tenho 20 anos e estou à procura de uma vaga como ``Desenvolvedor de Software Back End``. Atualmente estou estudando Engenharia de Software pela Estácio, estou no terceiro período, e também estou em um curso de Desenvolvedor Full Stack pela Cubos Academy.
 
 <!--
-**ViniciusSchitz/ViniciusSchitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

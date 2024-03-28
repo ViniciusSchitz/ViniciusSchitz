@@ -11,4 +11,4 @@ Meu nome é Vinicius Schitz, Tenho 20 anos e estou à procura de uma vaga como `
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSchitz&size_weight=0.5&count_weight=0.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSchitz)](https://github.com/anuraghazra/github-readme-stats)

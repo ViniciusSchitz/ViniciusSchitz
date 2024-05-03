@@ -6,7 +6,7 @@
 
 
 <p align="center">
-Meu nome é Vinicius Schitz, Tenho 20 anos e estou à procura de uma vaga como ``Desenvolvedor de Software Back End``. Atualmente estou estudando Engenharia de Software pela Estácio, estou no terceiro período, e também estou em um curso de Desenvolvedor Full Stack pela Cubos Academy.
+Meu nome é Vinicius Schitz, Tenho 20 anos e estou à procura de uma vaga como <strong>Desenvolvedor de Software</strong>. Atualmente estou estudando Engenharia de Software pela Estácio, estou no terceiro período, e também estou em um curso de Desenvolvedor Full Stack pela Cubos Academy.
 </p>
 
 <span align="center">

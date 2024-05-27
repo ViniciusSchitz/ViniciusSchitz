@@ -32,7 +32,8 @@ Meu nome é Vinicius Schitz, estou a procura de uma vaga como <strong>Desenvolve
 <p>
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25"/>
  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="25"/> 
- <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25"/> 
+ <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" height="25"/>
+ <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
 </p>
 
 <span>
